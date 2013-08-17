@@ -15,14 +15,14 @@ public class DataSetup {
 		Contact contact = new Contact();
 		
 		contact.setName("Thiago");
-		contact.setPhone("013-81814908");
+		contact.setPhone("015-11111111");
 		
 		contactService.save(contact);
 
 		contact = new Contact();
 		
 		contact.setName("Camilo");
-		contact.setPhone("011-11111111");
+		contact.setPhone("015-11111111");
 		
 		contactService.save(contact);
 
